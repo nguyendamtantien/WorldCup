@@ -1,0 +1,6 @@
+toan, tien, 1, 2017, 300                   
+ly, tien, 2, 2010, 300                   
+hoa, tien, 3, 2014, 300                   
+dia, tien, 4, 2019, 300                   
+tin, tien, 5, 2016, 300                   
+sinh, tien, 7, 2018, 500
